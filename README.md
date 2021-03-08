@@ -12,4 +12,6 @@ ex1 recording: https://politecnicomilano.webex.com/webappng/sites/politecnicomil
 
 ex2 recording:
 
+https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/63e5ed2f23b24822a7964fc13ffb60b8/playback
+
 
