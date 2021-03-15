@@ -1,0 +1,16 @@
+sign-1)
+
+	- compilare con: gcc sign-1.c -o sign-1
+	- lanciare il programma
+	- aprire un'altra shell
+	- digitare: ps ax | grep sign-1
+	- ricordare il pid di ./sign-1
+	- sempre nella shell, inviare il comando: kill -SIGUSR1 pid_trovato
+	- vedere cosa succede nell'altra shell,quella in cui ho lanciato il programma
+sign-2)
+	- compilare con: gcc sign-2.c -o sign-2
+	- attendere 10 secondi
+
+sign-3)
+	- compilare con: gcc sign-3.c -o sign-3
+	- attendere 2-3 secondi
