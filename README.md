@@ -16,3 +16,6 @@ https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/6
 
 ex3 recording:
 https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/f5c19b7311a8463ba7baafefc4f52982/playback
+
+ex4 recording:
+https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/5692271c499a426ebf5ed6bf02b826ca/playback
