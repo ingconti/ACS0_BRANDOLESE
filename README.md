@@ -22,3 +22,5 @@ https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/5
 ex5 recoding: (8th april)
 https://politecnicomilano.webex.com/recordingservice/sites/politecnicomilano/recording/925ec6231a9649e3bc125d98fb892076/playback
 
+ex6 recoding: (19th april)
+https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/feff05ad24ef483fb2f42b100c2c1f3d/playback
