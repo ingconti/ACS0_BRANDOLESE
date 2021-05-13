@@ -6,7 +6,6 @@ Aula webex esercitazioni a CREMONA:
 
 https://politecnicomilano.webex.com/meet/gianenrico.conti
 
-
 ex1 recording: 
 https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/09446064de6c4a2a83b0a20a8ca6ed5e/playback
 
