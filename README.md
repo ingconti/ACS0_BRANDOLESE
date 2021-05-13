@@ -25,5 +25,9 @@ https://politecnicomilano.webex.com/recordingservice/sites/politecnicomilano/rec
 ex6 recoding: (19th april)
 https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/feff05ad24ef483fb2f42b100c2c1f3d/playback
 
-ex6 recoding: (3rd may) MIPS architecture (pipelined)
+ex7 recoding: (3rd may) MIPS architecture (pipelined)
 https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/2fa284b48e381039a9ff005056819fd6/playback
+
+ex8 recoding: (13rd may) MIPS architecture (pipelined) ex2 - CACHE
+https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/b6ee32e395e91039bd1f0050568197bb/playback
+
