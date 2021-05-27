@@ -30,4 +30,7 @@ https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/2
 ex8 recoding: (13rd may) MIPS architecture (pipelined) ex2 - CACHE
 https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/b6ee32e395e91039bd1f0050568197bb/playback
 
+ex9 recoding: (27th may) Scheduling, Memoria virtuale
+https://politecnicomilano.webex.com/recordingservice/sites/politecnicomilano/recording/55feb5e6a0e91039b55d005056815057/playback
+
 
