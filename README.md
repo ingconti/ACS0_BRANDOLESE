@@ -33,4 +33,6 @@ https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/b
 ex9 recoding: (27th may) Scheduling, Memoria virtuale
 https://politecnicomilano.webex.com/recordingservice/sites/politecnicomilano/recording/55feb5e6a0e91039b55d005056815057/playback
 
+ex10- recoding: (31th may) File System, Temi esame
+https://politecnicomilano.webex.com/webappng/sites/politecnicomilano/recording/90e13c47a4381039bcff00505681fa23/playback
 
