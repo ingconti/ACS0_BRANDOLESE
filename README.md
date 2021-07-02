@@ -1,4 +1,5 @@
-# ACS0_BRANDOLESE
+# ACS0_BRANDOLESE A.A. 2020-21
+
 ## materiali di supporto, slide esercitazioni e codice corso:
 ## "085779 - ARCHITETTURA DEI CALCOLATORI E SISTEMI OPERATIVI"
 
